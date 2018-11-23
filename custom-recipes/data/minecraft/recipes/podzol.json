@@ -1,0 +1,32 @@
+﻿{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dirt"
+    },
+    [
+      {
+        "item": "oak_leaves"
+      },
+      {
+        "item": "spruce_leaves"
+      },
+      {
+        "item": "dark_oak_leaves"
+      },
+      {
+        "item": "birch_leaves"
+      },
+      {
+        "item": "jungle_leaves"
+      },
+      {
+        "item": "acacia_leaves"
+      }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:podzol",
+    "count": 2
+  }
+}
