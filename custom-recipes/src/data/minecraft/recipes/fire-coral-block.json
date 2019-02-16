@@ -6,9 +6,14 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:fire_coral"
-    }
+    "#": [
+      {
+        "item": "minecraft:fire_coral"
+      },
+      {
+        "item": "minecraft:fire_coral_fan"
+      }
+    ]
   },
   "result": {
     "item": "minecraft:fire_coral_block",
